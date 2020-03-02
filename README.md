@@ -1,0 +1,2 @@
+# MySite
+Django Sample Application
